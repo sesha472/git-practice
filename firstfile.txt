@@ -1,3 +1,2 @@
 this is forst file
 line 2 added in first file
-line 3 added 
